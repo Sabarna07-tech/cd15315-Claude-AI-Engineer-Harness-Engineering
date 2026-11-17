@@ -19,3 +19,7 @@ uv.lock
 .ruff_cache/
 .coverage
 htmlcov/
+
+# Generated capstone evidence; keep run data out of source control.
+capstone-output/
+capstone-handoff.zip
